@@ -40,7 +40,7 @@ Capacitar criadores ao redor do mundo com ferramentas acessíveis e exclusivas, 
 - **Linguagens de programação:** Python, Julia.  
 - **Frameworks:** PyTorch, Flux.jl.  
 - **Infraestrutura:** 
-  - Servidores GPU de alto desempenho (NVIDIA A10, V100S).  
+  - Servidores GPU de alto desempenho (V100S).  
   - Parceiros como OVH Cloud.  
 
 ---

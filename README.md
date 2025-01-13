@@ -58,7 +58,7 @@ Capacitar criadores ao redor do mundo com ferramentas acessíveis e exclusivas, 
 Se você está interessado em aprender mais sobre nossos projetos ou colaborar conosco, entre em contato:  
 
 - **E-mail:** [business@mooncloudservices.tech](mailto:business@mooncloudservices.tech)  
-- **GitHub:** [Moon Cloud Services](https://github.com/seu-usuario)  
+- **DIscord:** [Moon Cloud Services](https://discord.gg/JNsfzEwMtC)  
 - **LinkedIn:** [Francisco Antonio CEO And Developer](https://www.linkedin.com/in/francisco-antonio-0434aa284/)  
 
 ---

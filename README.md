@@ -63,5 +63,5 @@ If you're interested in learning more about our projects or collaborating with u
 
 ---
 
-**Contribute with us!  
+**Contribute with us!** 
 We are always open to collaboration. Check out our projects, leave suggestions or send us a pull request! 🌟  

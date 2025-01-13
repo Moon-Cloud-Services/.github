@@ -1,6 +1,6 @@
 # Moon Cloud Services 🌙☁️
 
-**Welcome to the official Moon Cloud Services repository!  
+**Welcome to the official Moon Cloud Services repository!**  
 We are an innovative startup focused on developing solutions based on artificial intelligence, with a focus on creativity, efficiency and exclusivity. Our mission is to deliver cutting-edge technologies that empower creators and companies to reach new heights.
 
 ---
@@ -37,7 +37,7 @@ To empower creators around the world with accessible and exclusive tools, combin
 
 ## 💻 Technologies
 
-- Programming languages:** Python, Julia.  
+- Programming languages: Python, Julia.  
 - **Frameworks:** PyTorch, Flux.jl.  
 - **Infrastructure:** 
   - High-performance GPU servers (V100S).  

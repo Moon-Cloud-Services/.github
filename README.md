@@ -7,7 +7,7 @@ Somos uma startup inovadora focada no desenvolvimento de soluções baseadas em 
 
 ## 🚀 Sobre a Moon Cloud Services
 
-No coração da Moon Cloud Services está a busca por inovações no campo da inteligência artificial. Fazemos parte do programa de startups da OVH Cloud, o que nos permite acessar uma infraestrutura de ponta com mais de **10 mil dólares em créditos de computação em nuvem**.  
+No coração da Moon Cloud Services está a busca por inovações no campo da inteligência artificial. Fazemos parte do programa de startups da OVH Cloud, o que nos permite acessar uma infraestrutura de ponta.  
 
 Nosso principal projeto atual é o **Lunaris Orion**, uma rede neural personalizada para gerar pixel art de alta qualidade com base em prompts textuais, integrando criatividade com tecnologia de ponta.  
 

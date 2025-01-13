@@ -23,7 +23,7 @@ A revolutionary AI for generating pixel art that works perfectly integrated with
   - Fully configurable and modular.
   - Planned for future integration with proprietary neural networks.
 
-- Differentials:**
+- Differentials
   - Neural network developed in-house, providing exclusivity and customization.
   - Fully scalable project, with a focus on creative communities and startups.
 

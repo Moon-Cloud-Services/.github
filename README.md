@@ -1,61 +1,61 @@
 # Moon Cloud Services 🌙☁️
 
-**Bem-vindo ao repositório oficial da Moon Cloud Services!**  
-Somos uma startup inovadora focada no desenvolvimento de soluções baseadas em inteligência artificial, com foco em criatividade, eficiência e exclusividade. Nossa missão é entregar tecnologias de ponta que capacitem criadores e empresas a atingirem novos patamares.
+**Welcome to the official Moon Cloud Services repository!  
+We are an innovative startup focused on developing solutions based on artificial intelligence, with a focus on creativity, efficiency and exclusivity. Our mission is to deliver cutting-edge technologies that empower creators and companies to reach new heights.
 
 ---
 
-## 🚀 Sobre a Moon Cloud Services
+## 🚀 About Moon Cloud Services
 
-No coração da Moon Cloud Services está a busca por inovações no campo da inteligência artificial. Fazemos parte do programa de startups da OVH Cloud, o que nos permite acessar uma infraestrutura de ponta.  
+At the heart of Moon Cloud Services is the quest for innovation in the field of artificial intelligence. We are part of the OVH Cloud startup program, which gives us access to cutting-edge infrastructure.  
 
-Nosso principal projeto atual é o **Lunaris Orion**, uma rede neural personalizada para gerar pixel art de alta qualidade com base em prompts textuais, integrando criatividade com tecnologia de ponta.  
+Our current flagship project is **Lunaris Orion**, a customized neural network for generating high-quality pixel art based on textual prompts, integrating creativity with cutting-edge technology.  
 
 ---
 
-## 🌌 Projetos em Destaque
+## 🌌 Featured Projects
 
 ### 1. **Lunaris Orion**
-Uma IA revolucionária para geração de pixel art que funciona perfeitamente integrada ao Discord. O Lunaris Orion é ideal para artistas, desenvolvedores de jogos e criadores de conteúdo que buscam transformar ideias em obras de arte únicas.
+A revolutionary AI for generating pixel art that works perfectly integrated with Discord. Lunaris Orion is ideal for artists, game developers and content creators looking to turn ideas into unique works of art.
 
-- **Funcionalidades principais:**
-  - Geração de pixel art de alta qualidade.
-  - Totalmente configurável e modular.
-  - Planejado para integração futura com redes neurais próprias exclusivas.
+- Key features
+  - High-quality pixel art generation.
+  - Fully configurable and modular.
+  - Planned for future integration with proprietary neural networks.
 
-- **Diferenciais:**
-  - Rede neural desenvolvida internamente, proporcionando exclusividade e personalização.
-  - Projeto totalmente escalável, com foco em comunidades e startups criativas.
-
----
-
-## 🌟 Nossa Missão
-
-Capacitar criadores ao redor do mundo com ferramentas acessíveis e exclusivas, combinando o poder das redes neurais com a paixão por inovação.
+- Differentials:**
+  - Neural network developed in-house, providing exclusivity and customization.
+  - Fully scalable project, with a focus on creative communities and startups.
 
 ---
 
-## 💻 Tecnologias
+## 🌟 Our Mission
 
-- **Linguagens de programação:** Python, Julia.  
+To empower creators around the world with accessible and exclusive tools, combining the power of neural networks with a passion for innovation.
+
+---
+
+## 💻 Technologies
+
+- Programming languages:** Python, Julia.  
 - **Frameworks:** PyTorch, Flux.jl.  
-- **Infraestrutura:** 
-  - Servidores GPU de alto desempenho (V100S).  
-  - Parceiros como OVH Cloud.  
+- **Infrastructure:** 
+  - High-performance GPU servers (V100S).  
+  - Partners such as OVH Cloud.  
 
 ---
 
-## 📈 Metas Futuras
+## 📈 Future goals
 
-- Finalizar o desenvolvimento de uma **rede neural própria** totalmente personalizada para o Lunaris Orion.  
-- Lançar o projeto em **versão beta** para coletar feedback da comunidade.  
-- Expandir as funcionalidades da IA para incluir outras formas de arte digital.  
+- Finalize the development of a fully customized **own neural network** for Lunaris Orion.  
+- Launch the project in beta to gather feedback from the community.  
+- Expand the AI's functionalities to include other forms of digital art.  
 
 ---
 
-## 📞 Contato
+## 📞 Contact
 
-Se você está interessado em aprender mais sobre nossos projetos ou colaborar conosco, entre em contato:  
+If you're interested in learning more about our projects or collaborating with us, please get in touch:  
 
 - **E-mail:** [business@mooncloudservices.tech](mailto:business@mooncloudservices.tech)  
 - **DIscord:** [Moon Cloud Services](https://discord.gg/JNsfzEwMtC)  
@@ -63,5 +63,5 @@ Se você está interessado em aprender mais sobre nossos projetos ou colaborar c
 
 ---
 
-**Contribua conosco!**  
-Estamos sempre abertos a colaborações. Confira nossos projetos, deixe sugestões ou envie um pull request! 🌟  
+**Contribute with us!  
+We are always open to collaboration. Check out our projects, leave suggestions or send us a pull request! 🌟  
